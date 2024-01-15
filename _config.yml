@@ -131,14 +131,14 @@ keywords: "Jeet Shah,software,engineer,python,intern,job,hire,developer,programm
 
 navbar-col: "#b7bdf8"
 navbar-text-col: "#181926"
-navbar-border-col: "#b7bdf8"
+navbar-border-col: "#ee99a0"
 page-col: "#24273a"
 text-col: "#cad3f5"
-link-col: "#b7bdf8"
+link-col: "#f5bde6"
 hover-col: "#f4dbd6"
 footer-col: "#b7bdf8"
 footer-text-col: "#181926"
-footer-link-col: "#181926"
+footer-link-col: "#a6da95"
 footer-hover-col: "#f4dbd6"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
