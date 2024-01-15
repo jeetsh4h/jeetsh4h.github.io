@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Jeet Shah's Portfolio
+- title: Jeet Shah's Portfolio
 
 # Your name to show in the footer
-author: Jeet Shah
+- author: Jeet Shah
 
 ###############################################
 # --- List of links in the navigation bar --- #
