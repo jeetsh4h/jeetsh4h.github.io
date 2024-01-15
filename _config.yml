@@ -129,17 +129,17 @@ keywords: "Jeet Shah,software,engineer,python,intern,job,hire,developer,programm
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 ## turning this into Catppuccin Machiatto/Mocha Theme
 
-navbar-col: "#8aadf4"
+navbar-col: "#b7bdf8"
 navbar-text-col: "#181926"
 navbar-border-col: "#b7bdf8"
 page-col: "#24273a"
 text-col: "#cad3f5"
 link-col: "#b7bdf8"
-hover-col: "#c6a0f6"
-footer-col: "#8aadf4"
+hover-col: "#f4dbd6"
+footer-col: "#b7bdf8"
 footer-text-col: "#181926"
 footer-link-col: "#181926"
-footer-hover-col: "#c6a0f6"
+footer-hover-col: "#f4dbd6"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
