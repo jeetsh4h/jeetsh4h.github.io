@@ -131,15 +131,15 @@ keywords: "Jeet Shah,software,engineer,python,intern,job,hire,developer,programm
 
 navbar-col: "#b7bdf8"
 navbar-text-col: "#181926"
-navbar-border-col: "#ee99a0"
+navbar-border-col: "#000000"
 page-col: "#24273a"
 text-col: "#cad3f5"
 link-col: "#f5bde6"
 hover-col: "#f4dbd6"
 footer-col: "#b7bdf8"
 footer-text-col: "#181926"
-footer-link-col: "#a6da95"
-footer-hover-col: "#f4dbd6"
+footer-link-col: "#ed8796"
+footer-hover-col: "#24273a"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -149,7 +149,7 @@ footer-hover-col: "#f4dbd6"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#24273a"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
