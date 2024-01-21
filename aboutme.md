@@ -12,4 +12,4 @@ Simultaneously, having a space carved out for myself on the internet where I can
 If you have any questions or would like to get in touch, please feel free to reach out to me on any of the social media links that are in the footer.
 
 Here is my resume:<br>
-<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/JeetShahResume.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/assets/_pdfs/JeetShahResume.pdf" width="1000" height="1000" type="application/pdf"></object>
