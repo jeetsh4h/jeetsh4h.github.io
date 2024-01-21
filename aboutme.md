@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Budding Software Developer
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello, I am student of Computer Science at FLAME University.
+I am pursuing an Bachelor's with Honours in Computer Science.
+This is my personal website and hopefully it will be a place for me to showcase my work and research projects over the years.
+Simultaneously, having a space carved out for myself on the internet where I can nerd out over the technologies I am currently interested in.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+If you have any questions or would like to get in touch, please feel free to reach out to me on any of the social media links that are in the footer.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Here is my resume:<br>
+<object data="assets\JeetShahResume.pdf" width="1000" height="1000" type='application/pdf'></object>
