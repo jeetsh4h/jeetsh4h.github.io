@@ -22,6 +22,8 @@ author: Jeet Shah
 navbar-links:
   About Me: "aboutme"
   Projects: https://jeetsh4h.github.io/
+  Education: "education"
+  Internships: "internships"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
