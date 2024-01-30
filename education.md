@@ -79,3 +79,10 @@ subtitle: BSc. (Hons.) in Computer Science
 - Part of the school's MUN delegation
     - 2016 - 2018
     - Attended IIMUN, GCMUN, and DAIMUN
+
+<br>
+
+## Lilavatibai Podar High School, Santacruz
+2007 - 2013
+- Came first in "Poems Come Alive", a poetry recitation competition.
+- Took part in the school's science fair.
