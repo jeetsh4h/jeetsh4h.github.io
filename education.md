@@ -43,7 +43,7 @@ subtitle: BSc. (Hons.) in Computer Science
     - Helped manage the website for the event in 2022.
     - Helped with audiovisual logistics on the day of the event.
 
-
+<br>
 
 ## PACE Jr. Sci. College
 2019 - 2021
@@ -53,6 +53,7 @@ subtitle: BSc. (Hons.) in Computer Science
 ### Extra-Cirriculars
 - Participated in the inter-organisation festival - "PACE Fest"
 
+<br>
 
 ## CP Goenka Int'l School, Juhu
 2013 - 2019

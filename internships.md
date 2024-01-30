@@ -13,11 +13,15 @@ May 2023 - July 2023
     - The model was developed using the TensorFlow library in Python.
     - The model was trained on the Google Colab platform.
 
+<br>
+
 ## Sportskeeda
 August 2023 - October 2023
 - Golf Content Writer
 - Wrote articles on the PGA Tour, LPGA Tour and European Tour.
 - Wrote articles on the latest news and updates from the world of golf.
+
+<br>
 
 ## Analyse India
 June 2022 - August 2022
@@ -28,6 +32,11 @@ June 2022 - August 2022
 - Helped built workflows to record educational videos
 - Wrote blog posts for the company's sister website - [NooreshTech](https://nooreshtech.co.in/)
 
+<br>
+
 ## Society for Nutrition, Education and Health Action
 May 2022 - July 2022
 - IT/IM Intern
+- Helped audit the NGO's network across all branches.
+- Developed the netword diagram for the same.
+- Accompanied employees to the field to help with data collection.
