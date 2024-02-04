@@ -4,7 +4,7 @@ title: Internships
 ---
 
 
-## Space Applications, Indian Space Research Organisation 
+## Space Applications Centre, Indian Space Research Organisation 
 May 2023 - July 2023
 - Scientific Research and Training Division Intern
 - Worked as a student researcher under Dr. Bipasha Shukla on-site at SAC, Ahmedabad.

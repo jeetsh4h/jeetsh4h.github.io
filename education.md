@@ -45,7 +45,7 @@ subtitle: BSc. (Hons.) in Computer Science
 
 <br>
 
-## PACE Jr. Sci. College
+## PACE Jr. Sci. College, Andheri
 2019 - 2021
 - PCM with Computer Science
 - HSC: 94%
@@ -67,7 +67,7 @@ subtitle: BSc. (Hons.) in Computer Science
     - Managed the inter-house events for the year.
     - Won the cultural trophy for the year.
     - Second in sports events.
-- Went to Brittany, France as part of an exchange program.
+- Went to Brittany, France as part of a student exchange program.
 - Goalkeeper of the Football Team
     - 2013 - 2018
     - Came second in the MSSA U-14 football team.
@@ -84,5 +84,6 @@ subtitle: BSc. (Hons.) in Computer Science
 
 ## Lilavatibai Podar High School, Santacruz
 2007 - 2013
+- Competed in MARRS Speling Bee, at an international level in Abu Dhabi.
 - Came first in "Poems Come Alive", a poetry recitation competition.
 - Took part in the school's science fair.

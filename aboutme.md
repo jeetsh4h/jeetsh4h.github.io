@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Budding Software Developer
 ---
 
 Hello, I am student of Computer Science at FLAME University.
