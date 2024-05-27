@@ -10,4 +10,4 @@ Simultaneously, having a space carved out for myself on the internet where I can
 
 If you have any questions or would like to get in touch, please feel free to reach out to me on any of the social media links that are in the footer.
 
-Here is a link to be able to view my resume: [<strong>CLICK ME</strong>](https://github.com/jeetsh4h/jeetsh4h.github.io/blob/master/assets/_pdfs/JeetShahResume.pdf)
+[Here](https://jeetsh4h.github.io/cv/cv.pdf) is my resume.
